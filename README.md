@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🌱 I’m currently learning how to play with Arduino. I'm also interested in MicroPython on ESP32.
 - 🔭 I’m currently working on a small device called [MorseListening](https://github.com/JJ1SLR/MorseListening). I'm an Amateur First-Class Radio Operator (第1級アマチュア無線技士) in Japan, and I need to practise myself to communicate with other amateur radio stations in Morse Code.
-- 📫 How to reach me: Twitter: [@JJ1SLR](https://twitter.com/JJ1SLR) , E-mail: JJ1SLR@jarl.com
+- 📫 How to reach me: Twitter: [@JJ1SLR](https://twitter.com/JJ1SLR) , or send me an E-mail.
 
 <!--
 **JJ1SLR/JJ1SLR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
