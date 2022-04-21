@@ -1,11 +1,11 @@
 ### Hi there 👋
-😄 I'm currently coding some simple games using Python. (Apr., 2022)
-📫 How to reach me: Twitter: [@JJ1SLR](https://twitter.com/JJ1SLR) , or send me an E-mail.
+- 😄 I'm currently coding some simple games using Python. (Apr., 2022)
+- 📫 How to reach me: Twitter: [@JJ1SLR](https://twitter.com/JJ1SLR) , or send me an E-mail.
 ---
-(old messages)
-🌱 I’m currently learning how to play with Arduino. I'm also interested in MicroPython on ESP32. (Oct. , 2020)
-🔭 I’m currently working on a small device called [MorseListening](https://github.com/JJ1SLR/MorseListening). I'm an Amateur First-Class Radio Operator (第1級アマチュア無線技士) in Japan, and I need to practise myself to communicate with other amateur radio stations in Morse Code.
- - The basic functions are completed. Now it's on version V0.1.1. (Oct. 26, 2020)
+(Old messages)
+- 🌱 I’m currently learning how to play with Arduino. I'm also interested in MicroPython on ESP32. (Oct. , 2020)
+- 🔭 I’m currently working on a small device called [MorseListening](https://github.com/JJ1SLR/MorseListening). I'm an Amateur First-Class Radio Operator (第1級アマチュア無線技士) in Japan, and I need to practise myself to communicate with other amateur radio stations in Morse Code.
+  - The basic functions are completed. Now it's on version V0.1.1. (Oct. 26, 2020)
 
 <!--
 **JJ1SLR/JJ1SLR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
