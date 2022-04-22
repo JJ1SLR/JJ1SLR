@@ -1,5 +1,7 @@
 ### Hi there 👋
+
 <img align="right" src="https://github-readme-stats-one-bice.vercel.app/api?username=JJ1SLR&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
+
 - 😄 I'm currently coding some simple games using Python. (Apr., 2022)
 - 📫 How to reach me: Twitter: [@JJ1SLR](https://twitter.com/JJ1SLR) , or send me an E-mail.
 ---
